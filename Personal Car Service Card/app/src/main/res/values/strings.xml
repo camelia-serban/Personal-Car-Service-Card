@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">PersonalCarServiceCard</string>
+    <string name="revisions">Revisions</string>
+    <string name="revision_type">Revision Type</string>
+    <string name="save">Save</string>
+    <string name="btn_revisions_save">Save</string>
+    <string name="AR_add_service_name">Add Service Name</string>
+    <string name="AR_date">Date</string>
+    <string name="ARF_revisions">Revisions</string>
+    <string name="LRA_add_revisions">Add Revisions</string>
+    <string name="LRA_revision_type">Revision Type</string>
+    <string name="LRA_service_name">Service Name</string>
+    <string name="LRA_date">Date</string>
+    <string name="ADC_car_brand">Car Brand</string>
+    <string name="ADC_car_model">Car Model</string>
+    <string name="ADC_btn_save">Save</string>
+    <string name="ADC_car_details">Car Details</string>
+    <string name="ADC_fabrication_year">Fabrication Year</string>
+    <string name="lv_CDA_img_car_details">Car Details</string>
+    <string name="lv_ADC_car_brand">Car Brand</string>
+    <string name="lv_ADC_car_model">Car Model</string>
+    <string name="lv_ADC_fabrication_year">Fabrication Year</string>
+    <string name="ARF_button">Button</string>
+    <string name="ASR_add_service_name">Add Service Name</string>
+    <string name="ASR_service_feedback">Service Feedback</string>
+    <string name="ASR_btn_save">Save</string>
+    <string name="ACCF_car_changes">Car Changes</string>
+    <string name="ACCF_btn_add">Add</string>
+    <string name="ACC_btn_save">Save</string>
+    <string name="ACC_add_year">Add Year</string>
+    <string name="ACC_add_month">Add Month</string>
+    <string name="ACC_other">Other:</string>
+    <string name="ACC_color">Color</string>
+    <string name="ACC_mirrors">Mirrors</string>
+    <string name="ACC_ac_compressor">AC Compressor</string>
+    <string name="ACC_battery">Battery</string>
+    <string name="ACC_windscreen">Windscreen</string>
+    <string name="ACC_tail_lights">Tail Lights</string>
+    <string name="ACC_headlights">Headlights</string>
+    <string name="ACC_car_changes">Car Changes</string>
+    <string name="ADC_btn_back">Back</string>
+    <string name="ASR_btn_back">Back</string>
+    <string name="AR_btnback">Back</string>
+    <string name="ACC_btn_back">Back</string>
+    <string name="ACCF_btn_back">Back</string>
+    <string name="ARF_btn_back">Back</string>
+
+
+    <string name="add_invalid_name_error">Invalid Service Name. Minimum 3 characters</string>
+    <string-array name="add_revisions_type">
+        <item>air filter</item>
+        <item>distributor cover and rotor</item>
+        <item>petroleum filter</item>
+        <item>distribution belt</item>
+        <item>transmission fluid</item>
+        <item>coolant</item>
+        <item>regular revision at 15.000 km</item>
+    </string-array>
+    <string name="revision_added_message">Revision name %1$s</string>
+
+    <string name="main_welcome_message">Welcome, %1$s!</string>
+
+
+    <string-array name="add_car_brand">
+        <item>Alfa Romeo</item>
+        <item>Aston Martin</item>
+        <item>Audi</item>
+        <item>Austin</item>
+        <item>Bentley</item>
+        <item>BMW</item>
+        <item>Cadillac</item>
+        <item>Chevrolet</item>
+        <item>Citroen</item>
+        <item>Dacia</item>
+        <item>Dodge</item>
+        <item>Ferrari</item>
+        <item>Fiat</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Jaguar</item>
+        <item>Jeep</item>
+        <item>Kia</item>
+        <item>Lamborghini</item>
+        <item>Lexus</item>
+        <item>Maserti</item>
+        <item>Mazda</item>
+        <item>Mercedes</item>
+        <item>Mini</item>
+        <item>Mitsubishi</item>
+        <item>Nissan</item>
+        <item>Opel</item>
+        <item>Peugeot</item>
+        <item>Porsche</item>
+        <item>Renault</item>
+        <item>Rover</item>
+        <item>Seat</item>
+        <item>Skoda</item>
+        <item>Subaru</item>
+        <item>Suzuki</item>
+        <item>Tesla</item>
+        <item>Toyota</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+        <item>Yugo</item>
+    </string-array>
+    <string name="invalid_change">Please select an option or write it down</string>
+    <string name="add_invalid_year_error">Invalid Fabrication Year</string>
+    <string name="add_invalid_month_error">Invalid Month</string>
+    <string name="car_change_added_message">It was changed: %1$s</string>
+
+    <string name="ACDF_my_personal_car">My Personal Car</string>
+    <string name="ACDF_btn_add">Add</string>
+    <string name="car_details_msg">My car is %1$s</string>
+
+    <string name="ASRF_btn_add_review">Add Review</string>
+    <string name="reviews_added_msg">The review of: %1$s</string>
+
+    <string name="no_content">---</string>
+    <string name="AR_btn_open_datepicker">Open DatePicker</string>
+
+    <string name="main_new_revision_type_added_message">Revision: %1$s</string>
+    <string name="ASR_question">How pleased were you about the service?</string>
+    <string name="aP_save">Save</string>
+    <string name="male_AP">Male</string>
+    <string name="female_AP">Female</string>
+    <string name="gender_AP">Gender</string>
+    <string name="your_name_AP">Your name</string>
+
+
+</resources>
